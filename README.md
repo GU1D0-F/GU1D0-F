@@ -9,7 +9,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```csharp
 public class Guilherme {
  var completeName = "Guilherme Fadel";
- var acknowledgements = "C#/.Net";
  
  var languages = new List<string>()
                             {
