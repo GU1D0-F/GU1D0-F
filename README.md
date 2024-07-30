@@ -13,7 +13,9 @@ public class Guilherme {
  var languages = new List<string>()
                             {
                               "C#", 
-                              "Asp.Net", 
+                              "Asp.Net",
+                              "SQL",
+                              "NoSQL",
                               "Typescript", 
                               "JavaScript", 
                               "React"
